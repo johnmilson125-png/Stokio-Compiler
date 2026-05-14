@@ -2,81 +2,92 @@ END USER LICENSE AGREEMENT (EULA)
 Stokiomer XMQ Application Maker
 
 Author: Joe.r
-Official Domains: stokiomer.joer.dev
 
 ------------------------------------------------------------
 1. DEFINITIONS
 
 "Software" refers to Stokiomer XMQ Application Maker,
-including source code, binaries, tools, libraries, and documentation.
+including source code, binaries, documentation, and assets.
 
 "Official Project" refers exclusively to:
-- https://github.com/Stokiomer-XMQ-App-Maker
-- https://stokiomer.joer.dev
+- GitHub repository: Stokiomer-XMQ-App-Maker
+- Official domain: stokiomer.joer.dev
 
 ------------------------------------------------------------
 2. OWNERSHIP
 
-All rights, title, and intellectual property remain with Joe.r.
+All rights, title, and intellectual property rights
+in the Software remain the exclusive property of Joe.r.
 
 No ownership is transferred to the user.
 
 ------------------------------------------------------------
 3. PERMITTED USE
 
-You may:
-- Use the Software for personal or internal use.
-- Study the behavior of the Software.
-- Use MIT-licensed libraries provided with the Software,
-  such as "Stokiomer.UI.hpp", under their MIT terms.
+You are permitted to:
+- Use the Software for personal or internal purposes.
+- Run compiled versions of the Software.
+- Study the behavior of the Software for educational use.
 
 ------------------------------------------------------------
-4. RESTRICTIONS
+4. STRICT RESTRICTIONS
 
+4.1 NAME PROTECTION
 You are strictly prohibited from:
+- Using the name "Stokiomer"
+- Using any confusingly similar name intended to imitate or reference Stokiomer
+- Creating any branding that may cause confusion with the Official Project
 
-4.1 Reverse Engineering
-- Decompiling, disassembling, or extracting source code from binaries.
-- Attempting to reconstruct internal logic or architecture.
-
-4.2 Redistribution
-- Redistributing the Software, modified or unmodified,
-  outside the Official Project sources listed above.
-
-4.3 Branding and Name Usage
-- Using the name "Stokiomer" in any project that does not
-  belong to or is not explicitly derived from the Official Project.
-- Using the name "Stokiomer" for any software with similar purpose,
-  especially XAML compilers, UI markup systems, or application makers.
-
-4.4 Domain and Identity Protection
-- Using or registering the domain "stokiomer.joer.dev"
-  or any confusingly similar domain or identity.
-- Creating services that impersonate or mimic the Official Project.
+This includes, but is not limited to:
+- Stokiomer
+- Stokiomer XMQ
+- Stokiomer UI / App Maker variants
+- Any derivative naming intended to imply association
 
 ------------------------------------------------------------
-5. LIBRARIES
-
-Any library developed specifically for this project,
-such as "Stokiomer.UI.hpp", is licensed under MIT License
-unless explicitly stated otherwise.
+4.2 PROJECT IMPERSONATION
+You are strictly prohibited from:
+- Claiming your software is the Official Project
+- Implying affiliation with Stokiomer
+- Recreating or presenting a project as a continuation of Stokiomer without authorization
 
 ------------------------------------------------------------
-6. DISTRIBUTION CONTROL
+4.3 CODE PROTECTION
+You are strictly prohibited from:
+- Copying or redistributing the source code
+- Publishing modified or unmodified versions of the Software
+- Removing author identification or internal markers
+- Releasing the Software under a different name
 
-The only official distribution points are:
-- GitHub repository: Stokiomer-XMQ-App-Maker
-- Official website: stokiomer.joer.dev
+------------------------------------------------------------
+4.4 REVERSE ENGINEERING
+You are strictly prohibited from:
+- Decompiling, disassembling, or reverse engineering binaries
+- Extracting source code or internal logic from compiled versions
+- Using reverse-engineered results to recreate the Software
 
-Any other distribution is considered unauthorized.
+------------------------------------------------------------
+5. OFFICIAL DISTRIBUTION
+
+The Software is officially distributed only through:
+- https://github.com/Stokiomer-XMQ-App-Maker
+- https://stokiomer.joer.dev
+
+Any other distribution is unauthorized.
+
+------------------------------------------------------------
+6. THIRD-PARTY LIBRARIES
+
+Any third-party libraries included in the Software
+remain under their respective licenses.
 
 ------------------------------------------------------------
 7. IDENTIFICATION SYSTEM
 
-All compiled binaries must preserve internal identification
-markers indicating authorship.
+All compiled versions must retain internal identification markers
+indicating original authorship.
 
-Removal, modification, or obfuscation of such markers is prohibited.
+Removal or modification of such markers is prohibited.
 
 ------------------------------------------------------------
 8. NO WARRANTY
@@ -86,92 +97,9 @@ The Software is provided "as is" without any warranty.
 ------------------------------------------------------------
 9. TERMINATION
 
-Any violation of this license results in immediate termination
+Any violation of this agreement results in immediate termination
 of usage rights.
 
 ------------------------------------------------------------
 © Joe.r — Stokiomer Project
 All Rights Reserved
-    @Joe.r
-
-This credit must appear in:
-- Documentation
-- About page / UI (if applicable)
-- Contributors section (if available)
-
-------------------------------------------------------------
-
-4. OPEN SOURCE REQUIREMENT FOR DERIVATIVES
-
-Any Derivative Work based on this Software MUST:
-
-- Remain Open Source
-- Provide full source code access to users
-- NOT be distributed as closed-source software
-
-This applies ONLY to code derived from this Software.
-
-------------------------------------------------------------
-
-5. BRAND AND NAME PROTECTION
-
-You are strictly prohibited from:
-
-- Using the name "Stokiomer" or any confusingly similar name
-  for any other software, especially app builders or compiler tools.
-
-- Creating software with the same or similar purpose (XAML compiler,
-  UI markup compiler, app builder, or similar) using a confusingly
-  similar name.
-
-- Implying that your software is related to or based on this project
-  without explicit permission from the author.
-
-------------------------------------------------------------
-
-6. OWNERSHIP OF ORIGINAL CODE
-
-- The original source code of this Software remains the exclusive
-  intellectual property of @Joe.r.
-
-- You MAY NOT remove author identification from the original code.
-
-- You MAY NOT claim original code as your own work.
-
-------------------------------------------------------------
-
-7. IDENTIFICATION SYSTEM
-
-All compiled versions of the Software MUST preserve author identity
-in a visible or inspectable form ("IDENT"), such as:
-
-- Binary metadata
-- About section
-- Internal compiler identifier
-
-Removal or obfuscation of this identity is prohibited.
-
-------------------------------------------------------------
-
-8. THIRD-PARTY LIBRARIES
-
-This Software may include third-party components licensed separately
-(e.g. MIT License). These components remain under their own licenses.
-
-------------------------------------------------------------
-
-9. NO WARRANTY
-
-This Software is provided "as is" without warranty of any kind.
-The author is not responsible for damages or misuse.
-
-------------------------------------------------------------
-
-10. TERMINATION
-
-Violation of any term in this agreement will result in immediate
-loss of usage and distribution rights.
-
-------------------------------------------------------------
-
-© @Joe.r — All Rights Reserved
